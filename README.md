@@ -29,10 +29,9 @@ This game only requires the built-in `turtle` module, so no additional installat
 - Ball movement with collision detection. 🏓💥👾
 
 ## Future Improvements 📌
-- Add a score tracking system.
 - Implement sound effects.
 - Improve AI for single-player mode. 🤖
 
-Enjoy playing Pong! 🎮🎈😃
+Enjoy playing Pong and share your high scores! 🎮🎈😃
 
 
